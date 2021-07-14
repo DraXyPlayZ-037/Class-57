@@ -1,0 +1,33 @@
+#intro {
+    background:linear-gradient(limegreen,skyblue);
+    height:700px;
+}
+hr {
+    width:100px;
+    height:1px;
+    background-color: black;
+    
+}
+
+p {
+    max-width:500px;
+    text-align: justify;
+    padding: 10px;
+}
+
+img{
+    margin-top:50px;
+    border:4px groove black;
+}
+
+#WWW{
+color:darkslategray;
+font-family:monospace; 
+font-weight:bold;    
+}
+
+#tbl{
+font-family:inherit;
+}
+
+3
